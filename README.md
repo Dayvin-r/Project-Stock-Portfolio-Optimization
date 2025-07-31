@@ -1,1 +1,5 @@
 # Project-Stock-Portfolio-Optimization
+
+### In	financial	mathematics,	an	investment	portfolio	refers	to	a	combination	of	assets,	typically	stocks,	which	is	assembled	for	the	purpose	of	generating	long	term	returns.	Typically,	an	investor	would	like	to	choose	the	composition	of	the	portfolio	in	a	way	to	simultaneously	maximise	returns	and	minimise	risks.	While	the	return	can	usually	be	measured	by	the	increase	in	value	of	the	portfolio,	it	is	less	clear	how	one	should	quantify	the	risk	of	the	portfolio.	Some	common measures	of	risks	include	variance/standard	deviation,	value-at-risk	(VaR)	and	expected	shortfall.	Each	of	these	can	be	measured	at	different	time	intervals	(daily,	weekly,	etc.).	By	carefully	selecting	the	composition	of	the	portfolio,	the investor	would aim	to	optimise	some	objective	function which	balances	the	return	with	the	risk,	e.g.,	by	maximising	the	Sharpe	ratio.
+
+### In	this	project,	we	perform	an	in-sample	optimisation	of	trading	portfolios,	based	on	the	stocks	which	have	been	in	the	S&P500	in	the	last	26	years.	Several	different	types	of	portfolio	weights	will	be	considered.
